@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hyuu</h1>
 <h3 align="center">A junior developer from Indonesia</h3>
 
+```python
+import os
+
+os.system("pkill all")
+print("\nImportance of Being a Full-Stack Developer:")
+for i, point in enumerate(importance, start=1):
+    print(f"{i}. {point}")
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyuux&label=Profile%20views&color=0e75b6&style=flat" alt="hyuux" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyuux" alt="hyuux" /></a> </p>
