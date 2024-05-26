@@ -1,7 +1,17 @@
 <h1 align="center">Hi, I'm Hyuu</h1>
 
 ```javascript
-console.log("A young man who wants to become a Full-Stack Developer.");
+class Profile {
+  constructor(name, hobby) {
+    this.name = name;
+    this.hobby = hobby;
+  }
+}
+
+const profile = new Profile('Hyuu', 'Turu');
+
+console.log(`Name: ${profile.name}`);
+console.log(`Hobby: ${profile.hobby}`);
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyuux&label=Profile%20views&color=0e75b6&style=flat" alt="hyuux" /> </p>
