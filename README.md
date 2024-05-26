@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyuu</h1>
-<h3 align="center">A junior developer from Indonesia</h3>
+<h1 align="center">Hi, I'm Hyuu</h1>
 
 ```python
 import os
