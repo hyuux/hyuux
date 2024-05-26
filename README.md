@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Hyuu</h1>
 
-```python
-import os
-
-os.system("pkill all")
-print("\nImportance of Being a Full-Stack Developer:")
-for i, point in enumerate(importance, start=1):
-    print(f"{i}. {point}")
+```javascript
+consoleo.log("A young man who wants to become a Full Stack Developer.");
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyuux&label=Profile%20views&color=0e75b6&style=flat" alt="hyuux" /> </p>
