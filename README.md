@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hyuu</h1>
 
 ```javascript
-consoleo.log("A young man who wants to become a Full-Stack Developer.");
+console.log("A young man who wants to become a Full-Stack Developer.");
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyuux&label=Profile%20views&color=0e75b6&style=flat" alt="hyuux" /> </p>
